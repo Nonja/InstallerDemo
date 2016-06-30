@@ -1,0 +1,3 @@
+# InstallerDemo
+
+C# / WPF installer.
